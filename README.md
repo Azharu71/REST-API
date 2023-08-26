@@ -1,2 +1,2 @@
 # REST-API
-Hasil Beljar rest api sejauh ini
+Hasil Belajar rest api sejauh ini
