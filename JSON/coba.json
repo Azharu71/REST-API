@@ -1,0 +1,30 @@
+[
+    {
+    "nama" : "Saya",
+    "umur" : 18,
+    "nik" : "008821",
+    "lulus" : true,
+    "hobby" : ["Game", "Coding"],
+    "Pendidikan" : {
+        "sd" : "lulus",
+        "smp" : "lulus",
+        "smk" : "lulus"
+    }
+
+
+},
+ {
+    "nama" : "Saya",
+    "umur" : 18,
+    "nik" : "008821",
+    "lulus" : true,
+    "hobby" : ["Game", "Coding"],
+    "Pendidikan" : {
+        "sd" : "lulus",
+        "smp" : "lulus",
+        "smk" : "lulus"
+    }
+
+
+}
+]

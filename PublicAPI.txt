@@ -1,0 +1,11 @@
+Public API/Open API
+adalah sebuah REST API yang dapat diakses secara publik, yang
+untuk menggunakannya kita harus mengikuti aturan pembuatnya. 
+Biasanya menggunakan Key/Token untuk otentikasi
+
+API VNDB
+https://api.vndb.org/kana
+hsoo-ybws4-j8yb9-qxkw-5obay-px8to-bfyk
+
+API KEY OMDB(pinjem punya padika)
+dca61bcc
